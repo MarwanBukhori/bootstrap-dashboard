@@ -167,9 +167,9 @@
 <?php 
 
 $servername = "localhost";
-$username = "cjmjbsbvun";
-$password = "Kew92hAwUw";
-$dbname = "cjmjbsbvun";
+$username = "root";
+$password = "";
+$dbname = "dashboard-example";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -271,9 +271,9 @@ if (mysqli_num_rows($result) > 0)
 
 <?php
 $servername = "localhost";
-$username = "cjmjbsbvun";
-$password = "Kew92hAwUw";
-$dbname = "cjmjbsbvun";
+$username = "root";
+$password = "";
+$dbname = "dashboard-example";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -349,9 +349,9 @@ else
               </tfoot>
                 <?php
 $servername = "localhost";
-$username = "cjmjbsbvun";
-$password = "Kew92hAwUw";
-$dbname = "cjmjbsbvun";
+$username = "root";
+$password = "";
+$dbname = "dashboard-example";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);

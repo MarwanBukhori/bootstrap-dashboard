@@ -7,7 +7,7 @@ $email    = "";
 $errors = array(); 
 
 // connect to the database
-$db = mysqli_connect('localhost', 'cjmjbsbvun', 'Kew92hAwUw', 'cjmjbsbvun');
+$db = mysqli_connect('localhost', 'root', '', 'dashboard-example');
 
 
 
